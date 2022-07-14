@@ -1,1 +1,2 @@
 .vscode
+backend/src/main/java/io/github/bonfimalan/dsmeta/resources/application.properties
